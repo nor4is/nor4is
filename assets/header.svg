@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 220" width="100%" height="100%">
+  <defs>
+    <linearGradient id="accentLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f0f6fc" stop-opacity="0.7"/>
+      <stop offset="40%" stop-color="#8b949e" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#21262d" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="subtleWave" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#30363d" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#8b949e" stop-opacity="0.45"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Minimal Dark Canvas -->
+  <rect width="1200" height="220" rx="6" fill="#0d1117" stroke="#21262d" stroke-width="1"/>
+
+  <!-- Minimalist Architectural Lines (Right Side) -->
+  <g fill="none" stroke="url(#subtleWave)" stroke-width="1">
+    <path d="M 680 220 C 780 140, 920 160, 1200 40" />
+    <path d="M 720 220 C 820 150, 950 170, 1200 65" />
+    <path d="M 760 220 C 860 160, 980 180, 1200 90" />
+    <path d="M 800 220 C 900 170, 1010 190, 1200 115" />
+    <path d="M 840 220 C 940 180, 1040 200, 1200 140" />
+    <path d="M 880 220 C 980 190, 1070 205, 1200 165" />
+  </g>
+
+  <!-- Clean Typography (Left Side) -->
+  <g transform="translate(56, 76)">
+    <text x="0" y="0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="32" font-weight="600" fill="#f0f6fc" letter-spacing="-0.5">
+      nor4is
+    </text>
+    <line x1="0" y1="20" x2="460" y2="20" stroke="url(#accentLine)" stroke-width="1"/>
+    <text x="0" y="50" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="400" fill="#8b949e">
+      Software &amp; AI Engineering  ·  Applied Mathematics  ·  Data Systems
+    </text>
+  </g>
+</svg>
