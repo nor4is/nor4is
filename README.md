@@ -100,6 +100,10 @@ active_research_and_build:
 
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/nor4is/nor4is/main/assets/berserk-banner.jpg" width="100%" alt="Berserk Manga Panel — Griffith / Femto" />
+
+<br /><br />
+
 *"Clean data, grounded models, and software built to last."*
 
 </div>
