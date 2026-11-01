@@ -98,34 +98,9 @@ active_research_and_build:
 
 ---
 
-## 📊 GitHub Telemetry
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nor4is&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=8B5CF6&text_color=C9D1D9&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nor4is&layout=compact&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&langs_count=8" />
-
-<br />
-
-<img width="68%" src="https://streak-stats.demolab.com/?user=nor4is&hide_border=true&background=0D1117&stroke=21262D&ring=A855F7&fire=8B5CF6&currStreakLabel=A855F7&sideLabels=C9D1D9&currStreakNum=F0F6FC&sideNums=F0F6FC&dates=8B949E" />
-
-</div>
-
----
-
-## 🐍 Contribution Grid
-
-<div align="center">
-
-![Snake animation](https://github.com/nor4is/nor4is/raw/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![Snake animation](https://github.com/nor4is/nor4is/raw/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-</div>
-
----
-
 <div align="center">
 
 *"Clean data, grounded models, and software built to last."*
 
 </div>
+
