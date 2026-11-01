@@ -100,7 +100,7 @@ active_research_and_build:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/nor4is/nor4is/main/assets/berserk-banner.jpg?v=3" width="100%" alt="Berserk — Griffith" />
+<img src="https://raw.githubusercontent.com/nor4is/nor4is/main/assets/berserk-banner.jpg?v=4" width="100%" alt="Berserk — Griffith" />
 
 <br /><br />
 
